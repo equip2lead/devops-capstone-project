@@ -1,6 +1,6 @@
 ---
-name: User Story Template
-about: Template for creating well-formatted user stories
+name: Account Microservice Template
+about: Template for tracking account microservice development
 ---
 
 **As a** [role]
