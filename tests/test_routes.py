@@ -124,4 +124,3 @@ class TestAccountService(TestCase):
         self.assertEqual(response.status_code, status.HTTP_415_UNSUPPORTED_MEDIA_TYPE)
 
     # ADD YOUR TEST CASES HERE ...
-
